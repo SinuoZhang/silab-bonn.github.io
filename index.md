@@ -8,3 +8,4 @@ The following lists available thesis topics at [Silizium Labor Bonn](https://git
 
 {% include_relative topics/proton_irrad_site_Bonn.md %}
 
+{% include_relative topics/SensorDevelopment.md %}
